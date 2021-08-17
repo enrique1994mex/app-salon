@@ -1,0 +1,8 @@
+# Ignora la carpeta node_modules
+node_modules
+
+# Ignora la carpeta src
+src 
+
+# Ignora gulpfile.js
+gulpfile.js 
